@@ -20,3 +20,4 @@ packages
 # C++
 x64
 *.vcxproj.user
+SFR/build.bat
